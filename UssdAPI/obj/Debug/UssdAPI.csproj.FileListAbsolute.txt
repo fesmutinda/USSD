@@ -1,0 +1,95 @@
+G:\Web_MIS\UssdAPI\UssdAPI\bin\UssdAPI.dll
+G:\Web_MIS\UssdAPI\UssdAPI\bin\UssdAPI.pdb
+G:\Web_MIS\UssdAPI\UssdAPI\obj\Debug\UssdAPI.dll
+G:\Web_MIS\UssdAPI\UssdAPI\obj\Debug\UssdAPI.pdb
+G:\Web_MIS\UssdAPI\UssdAPI\obj\Debug\UssdAPI.csprojResolveAssemblyReference.cache
+E:\SACCOSOFTLATESTKABISA\switch\UssdAPI\UssdAPI\bin\UssdAPI.dll
+E:\SACCOSOFTLATESTKABISA\switch\UssdAPI\UssdAPI\bin\UssdAPI.pdb
+E:\SACCOSOFTLATESTKABISA\switch\UssdAPI\UssdAPI\obj\Debug\UssdAPI.csprojResolveAssemblyReference.cache
+E:\SACCOSOFTLATESTKABISA\switch\UssdAPI\UssdAPI\obj\Debug\UssdAPI.dll
+E:\SACCOSOFTLATESTKABISA\switch\UssdAPI\UssdAPI\obj\Debug\UssdAPI.pdb
+G:\UssdAPI Updated\UssdnSwitch\UssdAPI\UssdAPI\bin\UssdAPI.dll
+G:\UssdAPI Updated\UssdnSwitch\UssdAPI\UssdAPI\bin\UssdAPI.pdb
+G:\UssdAPI Updated\UssdnSwitch\UssdAPI\UssdAPI\obj\Debug\UssdAPI.dll
+G:\UssdAPI Updated\UssdnSwitch\UssdAPI\UssdAPI\obj\Debug\UssdAPI.pdb
+G:\UssdAPI Updated\UssdnSwitch\UssdAPI\UssdAPI\obj\Debug\UssdAPI.csprojResolveAssemblyReference.cache
+D:\UssdnSwitch\UssdAPI\UssdAPI\bin\UssdAPI.dll
+D:\UssdnSwitch\UssdAPI\UssdAPI\bin\UssdAPI.pdb
+D:\UssdnSwitch\UssdAPI\UssdAPI\obj\Debug\ResolveAssemblyReference.cache
+D:\UssdnSwitch\UssdAPI\UssdAPI\obj\Debug\UssdAPI.dll
+D:\UssdnSwitch\UssdAPI\UssdAPI\obj\Debug\UssdAPI.pdb
+D:\ROGZ\SWIFTCASHPROJECT\UssdnSwitch\UssdAPI\UssdAPI\bin\UssdAPI.dll
+D:\ROGZ\SWIFTCASHPROJECT\UssdnSwitch\UssdAPI\UssdAPI\bin\UssdAPI.pdb
+D:\ROGZ\SWIFTCASHPROJECT\UssdnSwitch\UssdAPI\UssdAPI\obj\Debug\UssdAPI.csprojResolveAssemblyReference.cache
+D:\ROGZ\SWIFTCASHPROJECT\UssdnSwitch\UssdAPI\UssdAPI\obj\Debug\UssdAPI.dll
+D:\ROGZ\SWIFTCASHPROJECT\UssdnSwitch\UssdAPI\UssdAPI\obj\Debug\UssdAPI.pdb
+C:\PROGZ\US\ANGAZA USSD\UssdAPI\UssdAPI\bin\UssdAPI.dll
+C:\PROGZ\US\ANGAZA USSD\UssdAPI\UssdAPI\bin\UssdAPI.pdb
+C:\PROGZ\US\ANGAZA USSD\UssdAPI\UssdAPI\obj\Debug\UssdAPI.csprojResolveAssemblyReference.cache
+C:\PROGZ\US\ANGAZA USSD\UssdAPI\UssdAPI\obj\Debug\UssdAPI.dll
+C:\PROGZ\US\ANGAZA USSD\UssdAPI\UssdAPI\obj\Debug\UssdAPI.pdb
+D:\MOBILE BANKING STUFF\MOB FILES\UssdAPI\UssdAPI\bin\UssdAPI.dll
+D:\MOBILE BANKING STUFF\MOB FILES\UssdAPI\UssdAPI\bin\UssdAPI.pdb
+D:\MOBILE BANKING STUFF\MOB FILES\UssdAPI\UssdAPI\obj\Debug\UssdAPI.dll
+D:\MOBILE BANKING STUFF\MOB FILES\UssdAPI\UssdAPI\obj\Debug\UssdAPI.pdb
+C:\PROGZ\KARENGATA_SDA\UssdAPI\UssdAPI\bin\UssdAPI.dll
+C:\PROGZ\KARENGATA_SDA\UssdAPI\UssdAPI\bin\UssdAPI.pdb
+C:\PROGZ\KARENGATA_SDA\UssdAPI\UssdAPI\obj\Debug\UssdAPI.csprojResolveAssemblyReference.cache
+C:\PROGZ\KARENGATA_SDA\UssdAPI\UssdAPI\obj\Debug\UssdAPI.dll
+C:\PROGZ\KARENGATA_SDA\UssdAPI\UssdAPI\obj\Debug\UssdAPI.pdb
+C:\PROGZ\KIKAPU AFRICA PROJECT\UssdAPI\UssdAPI\bin\UssdAPI.dll
+C:\PROGZ\KIKAPU AFRICA PROJECT\UssdAPI\UssdAPI\bin\UssdAPI.pdb
+C:\PROGZ\KIKAPU AFRICA PROJECT\UssdAPI\UssdAPI\obj\Debug\UssdAPI.dll
+C:\PROGZ\KIKAPU AFRICA PROJECT\UssdAPI\UssdAPI\obj\Debug\UssdAPI.pdb
+D:\ROGZ 2015\TUISHI LTD\UssdAPI\UssdAPI\bin\UssdAPI.dll
+D:\ROGZ 2015\TUISHI LTD\UssdAPI\UssdAPI\bin\UssdAPI.pdb
+D:\ROGZ 2015\TUISHI LTD\UssdAPI\UssdAPI\bin\RestSharp.dll
+D:\ROGZ 2015\TUISHI LTD\UssdAPI\UssdAPI\bin\RestSharp.xml
+D:\ROGZ 2015\TUISHI LTD\UssdAPI\UssdAPI\obj\Debug\UssdAPI.csprojResolveAssemblyReference.cache
+D:\ROGZ 2015\TUISHI LTD\UssdAPI\UssdAPI\obj\Debug\UssdAPI.dll
+D:\ROGZ 2015\TUISHI LTD\UssdAPI\UssdAPI\obj\Debug\UssdAPI.pdb
+D:\ROGZ 2015\CHAMA YETU\UssdAPI\UssdAPI\bin\UssdAPI.dll
+D:\ROGZ 2015\CHAMA YETU\UssdAPI\UssdAPI\bin\UssdAPI.pdb
+D:\ROGZ 2015\CHAMA YETU\UssdAPI\UssdAPI\bin\RestSharp.dll
+D:\ROGZ 2015\CHAMA YETU\UssdAPI\UssdAPI\bin\RestSharp.xml
+D:\ROGZ 2015\CHAMA YETU\UssdAPI\UssdAPI\obj\Debug\UssdAPI.dll
+D:\ROGZ 2015\CHAMA YETU\UssdAPI\UssdAPI\obj\Debug\UssdAPI.pdb
+C:\Users\Morning student\Documents\Visual Studio 2010\Projects\CHAMA YETU\UssdAPI\UssdAPI\bin\UssdAPI.dll
+C:\Users\Morning student\Documents\Visual Studio 2010\Projects\CHAMA YETU\UssdAPI\UssdAPI\bin\UssdAPI.pdb
+C:\Users\Morning student\Documents\Visual Studio 2010\Projects\CHAMA YETU\UssdAPI\UssdAPI\bin\RestSharp.xml
+C:\Users\Morning student\Documents\Visual Studio 2010\Projects\CHAMA YETU\UssdAPI\UssdAPI\obj\Debug\UssdAPI.csprojResolveAssemblyReference.cache
+C:\Users\Morning student\Documents\Visual Studio 2010\Projects\CHAMA YETU\UssdAPI\UssdAPI\obj\Debug\UssdAPI.dll
+C:\Users\Morning student\Documents\Visual Studio 2010\Projects\CHAMA YETU\UssdAPI\UssdAPI\obj\Debug\UssdAPI.pdb
+D:\ROGZ 2015\CHAMA YETU\UssdAPI\UssdAPI\obj\Debug\UssdAPI.csprojResolveAssemblyReference.cache
+D:\CHAMA_YETU\CHAMA YETU\UssdAPI\UssdAPI\bin\UssdAPI.dll
+D:\CHAMA_YETU\CHAMA YETU\UssdAPI\UssdAPI\bin\UssdAPI.pdb
+D:\CHAMA_YETU\CHAMA YETU\UssdAPI\UssdAPI\bin\RestSharp.xml
+D:\CHAMA_YETU\CHAMA YETU\UssdAPI\UssdAPI\obj\Debug\UssdAPI.csprojResolveAssemblyReference.cache
+D:\CHAMA_YETU\CHAMA YETU\UssdAPI\UssdAPI\obj\Debug\UssdAPI.dll
+D:\CHAMA_YETU\CHAMA YETU\UssdAPI\UssdAPI\obj\Debug\UssdAPI.pdb
+C:\Users\Festus\Desktop\UssdAPI\UssdAPI\bin\UssdAPI.dll.config
+C:\Users\Festus\Desktop\UssdAPI\UssdAPI\bin\UssdAPI.dll
+C:\Users\Festus\Desktop\UssdAPI\UssdAPI\bin\UssdAPI.pdb
+C:\Users\Festus\Desktop\UssdAPI\UssdAPI\bin\RestSharp.xml
+C:\Users\Festus\Desktop\UssdAPI\UssdAPI\obj\Debug\UssdAPI.csprojResolveAssemblyReference.cache
+C:\Users\Festus\Desktop\UssdAPI\UssdAPI\obj\Debug\UssdAPI.dll
+C:\Users\Festus\Desktop\UssdAPI\UssdAPI\obj\Debug\UssdAPI.pdb
+E:\SnashyConnect\UssdAPI\UssdAPI\bin\UssdAPI.dll.config
+E:\SnashyConnect\UssdAPI\UssdAPI\bin\UssdAPI.dll
+E:\SnashyConnect\UssdAPI\UssdAPI\bin\UssdAPI.pdb
+E:\SnashyConnect\UssdAPI\UssdAPI\bin\RestSharp.xml
+E:\SnashyConnect\UssdAPI\UssdAPI\obj\Debug\UssdAPI.csprojResolveAssemblyReference.cache
+E:\SnashyConnect\UssdAPI\UssdAPI\obj\Debug\UssdAPI.dll
+E:\SnashyConnect\UssdAPI\UssdAPI\obj\Debug\UssdAPI.pdb
+E:\SnashyConnect\TUJIPANGE WELFARE\UssdAPI\UssdAPI\bin\UssdAPI.dll.config
+E:\SnashyConnect\TUJIPANGE WELFARE\UssdAPI\UssdAPI\bin\UssdAPI.dll
+E:\SnashyConnect\TUJIPANGE WELFARE\UssdAPI\UssdAPI\bin\UssdAPI.pdb
+E:\SnashyConnect\TUJIPANGE WELFARE\UssdAPI\UssdAPI\obj\Debug\UssdAPI.dll
+E:\SnashyConnect\TUJIPANGE WELFARE\UssdAPI\UssdAPI\obj\Debug\UssdAPI.pdb
+E:\SnashyConnect\TUJIPANGE WELFARE\UssdAPI\UssdAPI\obj\Debug\UssdAPI.csprojResolveAssemblyReference.cache
+E:\Tujipange Companion\UssdAPI\UssdAPI\bin\UssdAPI.dll.config
+E:\Tujipange Companion\UssdAPI\UssdAPI\bin\UssdAPI.dll
+E:\Tujipange Companion\UssdAPI\UssdAPI\bin\UssdAPI.pdb
+E:\Tujipange Companion\UssdAPI\UssdAPI\obj\Debug\UssdAPI.csprojResolveAssemblyReference.cache
+E:\Tujipange Companion\UssdAPI\UssdAPI\obj\Debug\UssdAPI.dll
+E:\Tujipange Companion\UssdAPI\UssdAPI\obj\Debug\UssdAPI.pdb

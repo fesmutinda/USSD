@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="D:\ROGZ 2015\CHAMA YETU\UssdAPI\UssdAPIDLLS" deleteExistingFiles="False" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Profile1" publishMethod="FileSystem" replaceMatchingFiles="True" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="telephone_black.png" publishTime="10/08/2016 07:47:32" />
+    <file relUrl="bin/RestSharp.xml" publishTime="09/07/2012 09:37:32" />
+    <file relUrl="bin/UssdAPI.pdb" publishTime="09/15/2022 19:27:30" />
+    <file relUrl="bin/UssdAPI.dll" publishTime="09/15/2022 19:27:31" />
+    <file relUrl="Web.config" publishTime="09/15/2022 19:27:42" />
+    <file relUrl="Ussd.svc" publishTime="10/08/2016 07:12:12" />
+    <file relUrl="emulator.html" publishTime="04/29/2020 02:21:35" />
+    <file relUrl="bin/RestSharp.dll" publishTime="09/07/2012 09:37:32" />
+    <file relUrl="emulator2.html" publishTime="10/09/2016 07:35:30" />
+  </publishProfile>
+</publishData>
